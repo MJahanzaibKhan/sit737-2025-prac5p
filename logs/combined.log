@@ -1,0 +1,14 @@
+{"level":"info","message":"Request: GET /add?num1=10&num2=20","service":"calculator-microservice"}
+{"level":"info","message":"Addition operation: 10 + 20 = 30","service":"calculator-microservice"}
+{"level":"info","message":"Request: GET /subtract?num1=30&num2=10","service":"calculator-microservice"}
+{"level":"info","message":"Subtraction operation: 30 - 10 = 20","service":"calculator-microservice"}
+{"level":"info","message":"Request: GET /multiply?num1=5&num2=4","service":"calculator-microservice"}
+{"level":"info","message":"Multiplication operation: 5 * 4 = 20","service":"calculator-microservice"}
+{"level":"info","message":"Request: GET /divide?num1=20&num2=5","service":"calculator-microservice"}
+{"level":"info","message":"Division operation: 20 / 5 = 4","service":"calculator-microservice"}
+{"level":"info","message":"Request: GET /exponentiate?num1=2&num2=3","service":"calculator-microservice"}
+{"level":"info","message":"Exponentiation operation: 2 ^ 3 = 8","service":"calculator-microservice"}
+{"level":"info","message":"Request: GET /sqrt?num1=25","service":"calculator-microservice"}
+{"level":"info","message":"Square Root operation: √25 = 5","service":"calculator-microservice"}
+{"level":"info","message":"Request: GET /modulo?num1=10&num2=3","service":"calculator-microservice"}
+{"level":"info","message":"Modulo operation: 10 % 3 = 1","service":"calculator-microservice"}
